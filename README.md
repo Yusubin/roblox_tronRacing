@@ -47,6 +47,9 @@ https://www.miricanvas.com/v/1251lkh
 
 
 1. pvpMap
+![ex_screenshot](https://postfiles.pstatic.net/MjAyMzA2MTVfMTQy/MDAxNjg2ODM2NzcwMDQ3.ETIpz-1AOq8pvrzSfyizx2x6TEPDVuOj9h4-JKEx4AEg.IzKJKdYiMkc2_DtuqlZCi_Nsr__c8eyHKlG-uX8vBSQg.GIF.mkong519/pvp2.gif?type=w966)
+
+
 
 2. itemMap
 ![ex_screenshot](https://postfiles.pstatic.net/MjAyMzA2MTVfMjcx/MDAxNjg2ODM2ODA5NzEy.-3_dvEg-pzfWsako_5OS5JdJuQhYDAx_CbwY4xmrRF0g.hpDUTMDkVkopPPvGN0-1tEUPdpohf991AMhQN_JoEGAg.PNG.mkong519/RobloxScreenShot20230609_210257402.png?type=w966)
@@ -55,4 +58,5 @@ https://www.miricanvas.com/v/1251lkh
 
 
 3. speedMap 
-4. 
+![ex_screenshot](https://postfiles.pstatic.net/MjAyMzA2MTVfMjM0/MDAxNjg2ODM2ODAyMTg1.s3n2jiEuwOaROOfxQz2X0pKpF02uXcM67n6w0TGr1aAg.4rss1TpEdhNVHrmYXy-6e-5tBFcB53g7QlBc3gp-hOog.GIF.mkong519/finishLine.gif?type=w966)
+5. 
