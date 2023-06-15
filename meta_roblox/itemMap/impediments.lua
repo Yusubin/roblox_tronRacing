@@ -1,0 +1,1 @@
+require(game.ServerStorage.FlagStandManager):Init(script.Parent)
