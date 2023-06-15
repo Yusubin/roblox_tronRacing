@@ -1,5 +1,4 @@
 # roblox_tronRacing
-====================
 메타버스 프로그래밍 팀프로젝트 
 
 🖥️ 프로젝트 소개
@@ -22,7 +21,7 @@
 📌 맵 소개 
 
 1. pvpMap
-<img src="[이미지 URL](https://drive.google.com/file/d/1oxmgnIA1I2tqnwinad6xEubbkRRzaqq0/view?usp=sharing)">
+<img src="https://drive.google.com/file/d/1oxmgnIA1I2tqnwinad6xEubbkRRzaqq0/view?usp=sharing">
 
 2. itemMap
 <img src="이미지 URL">
